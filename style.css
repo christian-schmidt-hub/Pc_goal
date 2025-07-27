@@ -1,4 +1,10 @@
-*{
-    margin: 0;
-    padding: 0;
+body{
+    color: white;
+    background-color: black ;
+}
+#container img{
+    max-width: 150px;
+}
+#container2 img{
+    max-width: 150px;
 }
